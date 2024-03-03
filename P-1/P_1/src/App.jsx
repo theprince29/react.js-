@@ -11,6 +11,7 @@ function App() {
     {
 
       setCounter(counter => counter + 1 )
+      setCounter(counter => counter + 1 )
     
     }
     
